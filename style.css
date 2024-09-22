@@ -368,7 +368,7 @@ article div {
 
 #projects {
   position: relative;
-  margin-bottom: 115rem; /* Adjusted bottom margin for better spacing */
+  margin-bottom: 10rem; /* Adjusted bottom margin for better spacing */
 }
 
 .projects-grid {
